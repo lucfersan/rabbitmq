@@ -1,0 +1,9 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "scripts": {
+    "up": "docker-compose up -d",
+    "down": "docker-compose down"
+  },
+  "license": "MIT"
+}

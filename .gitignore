@@ -1,0 +1,9 @@
+# Dependencies
+node_modules
+
+# Docker volumes
+.rabbitmq_data
+postgres
+
+# Environment
+.env
